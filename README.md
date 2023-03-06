@@ -3,8 +3,8 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/75851313/151668395-5591532b-28da-46a6-9476-7c9694bcb60e.gif">
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinjoseph97" alt="kevinjoseph97" /></a> </p>
-
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kevinjoseph97" alt="kevinjoseph97" /></a> </p>
+ -->
 - 🌱 I’m currently learning **TypeScript, Angular, AWS, Docker,**
 
 - 📝 I write articles on [https://medium.com/@kevinjoseph97](https://medium.com/@kevinjoseph97)
